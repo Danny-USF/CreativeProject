@@ -2,6 +2,10 @@ The application I created is intended to make it easier for the user to keep tra
 
 The application is deployed here: "http://localhost:5173/login" try it out!
 
+OR
+
+Watch this video to see the application in action: https://res.cloudinary.com/dvpd1ibxp/video/upload/v1743567984/video1671046798_cb1e5k.mp4
+
 The initial prompt I used for this application goes as such: Create a web application that allows the user to create and manage profiles for friends and family members. The user should be able to input a person's full name, birthday, relation to the user, occupation favorite color, favorite food, and hobbies.
 
 Cursor responded by generating an extremely barebones profile-tracker application, creating card-like profiles from the user's inputs.
