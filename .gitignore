@@ -4,9 +4,9 @@
 .env.*.local
 
 # Dependencies
-node_modules
-dist
-dist-ssr
+node_modules/
+dist/
+dist-ssr/
 
 # Logs
 logs
